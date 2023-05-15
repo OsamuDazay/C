@@ -1,0 +1,6 @@
+C:\Users\dimad\source\repos\Magazin\x64\Debug\Magazin.vcxproj.AssemblyReference.cache
+C:\Users\dimad\source\repos\Magazin\x64\Debug\Magazin.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\dimad\source\repos\Magazin\x64\Debug\Magazin.first.resources
+C:\Users\dimad\source\repos\Magazin\x64\Debug\Magazin.second.resources
+C:\Users\dimad\source\repos\Magazin\x64\Debug\Magazin.vcxproj.GenerateResource.cache
+C:\Users\dimad\source\repos\Magazin\x64\Debug\Magazin.exe
